@@ -1,0 +1,5 @@
+{
+  "name": "Viet Tin Notification Generator",
+  "description": "Automated tool for generating payment request notifications based on Viet Tin company templates.",
+  "requestFramePermissions": []
+}
